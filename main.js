@@ -78,5 +78,7 @@ const oddOrEvenNumber = number => {
   oddOrEvenNumber("Hello");
   oddOrEvenNumber(null);
   oddOrEvenNumber();
+  
+
 
   
